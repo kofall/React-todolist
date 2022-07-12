@@ -1,3 +1,8 @@
+# Todolist
+<hr>
+Aplikacja internetowa umożliwiająca stworzenie listy zadań do zrobienia. Ma pomóc użytkownikowi w organizowaniu swoich zajęć. Celem projektu było zapoznanie się z technologią React i stworzenie prostego interfejsu umożliwiającego dodawanie i ukrywanie kolejnych rekordów. 
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
